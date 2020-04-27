@@ -1,0 +1,23 @@
+{
+  "name": "Developer-Circle-Jakarta-Public-Data",
+  "version": "1.0.0",
+  "description": "Developer Circle Jakarta - Public Data",
+  "main": "toReadme.js",
+  "scripts": {
+    "toReadme": "node ./toReadme.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcjakarta/Public-Data.git"
+  },
+  "author": "Developer Circle Jakarta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devcjakarta/Public-Data/issues"
+  },
+  "homepage": "https://github.com/devcjakarta/Public-Data#readme",
+  "dependencies": {
+  }
+}
+
