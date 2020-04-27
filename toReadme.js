@@ -6,9 +6,9 @@ const main = async () => {
     const dataAsString = await fs.readFileSync(path.resolve(`./events.json`), { encoding: 'utf-8' });
     const dataAsJson = JSON.parse(dataAsString);
 
-    var readmeHeader = "# Developer Circle Jakarta - Public Data";
-    readmeHeader += "\nDeveloper Circle Jakarta - Public Data";
-    readmeHeader += "\n\n";
+    var readmeHeader = "# Developer Circle Jakarta - Public Data\n";
+    readmeHeader += "\n![Generate README](https://github.com/devcjakarta/Public-Data/workflows/Generate%20README/badge.svg)\n";
+    readmeHeader += "\nDeveloper Circle Jakarta - Public Data\n";
     var readmeContent = "\n";
     var tableOfContents = "\n## Daftar Event\n"
     tableOfContents += "\nsee [events.json](events.json)\n";
