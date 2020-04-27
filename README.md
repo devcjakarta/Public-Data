@@ -1,6 +1,8 @@
 # Developer Circle Jakarta - Public Data
-Developer Circle Jakarta - Public Data
 
+![Generate README](https://github.com/devcjakarta/Public-Data/workflows/Generate%20README/badge.svg)
+
+Developer Circle Jakarta - Public Data
 
 ## Daftar Event
 
