@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "name": "Online series #3 Unit Testing for Frontend",
+      "date": "2020/05/02",
+      "time": "",
+      "type": "online",
+      "speaker": {
+        "name": "",
+        "title": ""
+      },
+      "url": ""
+    },
+    {
+      "name": "Online series #2 Kubernetes for beginner",
+      "date": "2020/04/25",
+      "time": "13:00-13:00",
+      "type": "online",
+      "speaker": {
+        "name": "Gazandi Cahyadarma",
+        "title": "Sofware Engineer Bukalapak"
+      },
+      "url": "https://web.facebook.com/events/826776221164017/"
+    },
+    {
+      "name": "Online series #1 Playing with React360",
+      "date": "2020/04/18",
+      "time": "17:00-18:00",
+      "type": "online",
+      "speaker": {
+        "name": "Rizal Ibnu",
+        "title": "Frontend Enginer Kumparan"
+      },
+      "url": "https://web.facebook.com/events/673643483180170/"
+    }
+  ]
+}
