@@ -7,7 +7,7 @@ on:
       - master
 
 jobs:
-  generate_json:
+  generate_readme:
 
     runs-on: ubuntu-latest
     steps:
