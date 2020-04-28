@@ -8,26 +8,29 @@ Developer Circle Jakarta - Public Data
 
 see [events.json](events.json)
 
-- [Online series #3 Unit Testing for Frontend](#)
-- [Online series #2 Kubernetes for beginner](#)
-- [Online series #1 Playing with React360](#)
+- [Online series #3: Unit Testing for Frontend](#)
+- [Online series #2: Kubernetes for beginner](#)
+- [Online series #1: Playing with React360](#)
 
-### Online series #3 Unit Testing for Frontend
+### Online series #3: Unit Testing for Frontend
 
 - Tanggal: 2020/05/02
+- Pukul: 13:00 - 14:00
+- Pembicara: Ryan Rynaldo, Software Engineer, Bukalapak
+- https://us02web.zoom.us/meeting/register/tZwudemuqz4uEtcOF_V6Rq1y_EpnYg26k7XR
 
-### Online series #2 Kubernetes for beginner
+### Online series #2: Kubernetes for beginner
 
 - Tanggal: 2020/04/25
-- Pukul: 13:00-13:00
-- Pembicara: Gazandi Cahyadarma, Sofware Engineer Bukalapak
+- Pukul: 13:00 - 13:00
+- Pembicara: Gazandi Cahyadarma, Sofware Engineer, Bukalapak
 - https://web.facebook.com/events/826776221164017/
 
-### Online series #1 Playing with React360
+### Online series #1: Playing with React360
 
 - Tanggal: 2020/04/18
-- Pukul: 17:00-18:00
-- Pembicara: Rizal Ibnu, Frontend Enginer Kumparan
+- Pukul: 17:00 - 18:00
+- Pembicara: Rizal Ibnu, Frontend Enginer, Kumparan
 - https://web.facebook.com/events/673643483180170/
 
 
