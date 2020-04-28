@@ -22,7 +22,7 @@ see [events.json](events.json)
 ### Online series #2: Kubernetes for beginner
 
 - Tanggal: 2020/04/25
-- Pukul: 13:00 - 13:00
+- Pukul: 13:00 - 14:00
 - Pembicara: Gazandi Cahyadarma, Sofware Engineer, Bukalapak
 - https://web.facebook.com/events/826776221164017/
 
