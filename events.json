@@ -1,35 +1,35 @@
 {
   "data": [
     {
-      "name": "Online series #3 Unit Testing for Frontend",
+      "name": "Online series #3: Unit Testing for Frontend",
       "date": "2020/05/02",
-      "time": "",
+      "time": "13:00 - 14:00",
       "type": "online",
       "speaker": {
-        "name": "",
-        "title": ""
+        "name": "Ryan Rynaldo",
+        "title": "Software Engineer, Bukalapak"
       },
-      "url": ""
+      "url": "https://us02web.zoom.us/meeting/register/tZwudemuqz4uEtcOF_V6Rq1y_EpnYg26k7XR"
     },
     {
-      "name": "Online series #2 Kubernetes for beginner",
+      "name": "Online series #2: Kubernetes for beginner",
       "date": "2020/04/25",
-      "time": "13:00-13:00",
+      "time": "13:00 - 13:00",
       "type": "online",
       "speaker": {
         "name": "Gazandi Cahyadarma",
-        "title": "Sofware Engineer Bukalapak"
+        "title": "Sofware Engineer, Bukalapak"
       },
       "url": "https://web.facebook.com/events/826776221164017/"
     },
     {
-      "name": "Online series #1 Playing with React360",
+      "name": "Online series #1: Playing with React360",
       "date": "2020/04/18",
-      "time": "17:00-18:00",
+      "time": "17:00 - 18:00",
       "type": "online",
       "speaker": {
         "name": "Rizal Ibnu",
-        "title": "Frontend Enginer Kumparan"
+        "title": "Frontend Enginer, Kumparan"
       },
       "url": "https://web.facebook.com/events/673643483180170/"
     }
