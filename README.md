@@ -17,7 +17,7 @@ see [events.json](events.json)
 - Tanggal: 2020/05/02
 - Pukul: 13:00 - 14:00
 - Pembicara: Ryan Rynaldo, Software Engineer, Bukalapak
-- https://us02web.zoom.us/meeting/register/tZwudemuqz4uEtcOF_V6Rq1y_EpnYg26k7XR
+- https://www.facebook.com/events/527387501284134
 
 ### Online series #2: Kubernetes for beginner
 
