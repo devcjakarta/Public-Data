@@ -19,6 +19,8 @@ see [events.json](events.json)
 - Pukul: 13:00 - 15:00
 - Pembicara: Fascal Sapty, Software Engineer, Doku
 - https://web.facebook.com/events/2341509266147247
+- video url: https://www.facebook.com/groups/DevCJakarta/permalink/901216390303126
+- QnA url: https://www.facebook.com/groups/DevCJakarta/permalink/901224510302314
 
 ### Online series #3: Unit Testing for Frontend
 
@@ -26,6 +28,8 @@ see [events.json](events.json)
 - Pukul: 13:00 - 14:00
 - Pembicara: Ryan Rynaldo, Software Engineer, Bukalapak
 - https://www.facebook.com/events/527387501284134
+- video url: https://www.facebook.com/groups/DevCJakarta/permalink/896314084126690
+- QnA url: https://www.facebook.com/groups/DevCJakarta/permalink/896321094125989
 
 ### Online series #2: Kubernetes for beginner
 
