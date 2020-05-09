@@ -8,10 +8,17 @@ Developer Circle Jakarta - Public Data
 
 see [events.json](events.json)
 
+- [Online series #5: Getting started with React](#)
 - [Online series #4: Unit Testing for Backend](#)
 - [Online series #3: Unit Testing for Frontend](#)
 - [Online series #2: Kubernetes for beginner](#)
 - [Online series #1: Playing with React360](#)
+
+### Online series #5: Getting started with React
+
+- Tanggal: 2020/05/16
+- Pukul: 13:00 - 15:00
+- Pembicara: Sonny Lazuardi,, Lead UX Engineer, Grab
 
 ### Online series #4: Unit Testing for Backend
 
