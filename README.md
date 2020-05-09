@@ -8,9 +8,17 @@ Developer Circle Jakarta - Public Data
 
 see [events.json](events.json)
 
+- [Online series #4: Unit Testing for Backend](#)
 - [Online series #3: Unit Testing for Frontend](#)
 - [Online series #2: Kubernetes for beginner](#)
 - [Online series #1: Playing with React360](#)
+
+### Online series #4: Unit Testing for Backend
+
+- Tanggal: 2020/05/09
+- Pukul: 13:00 - 15:00
+- Pembicara: Fascal Sapty, Software Engineer, Doku
+- https://web.facebook.com/events/2341509266147247
 
 ### Online series #3: Unit Testing for Frontend
 
