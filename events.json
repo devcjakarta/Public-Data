@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "name": "Online series #5: Getting started with React",
+      "date": "2020/05/16",
+      "time": "13:00 - 15:00",
+      "type": "online",
+      "speaker": {
+        "name": "Sonny Lazuardi,",
+        "title": "Lead UX Engineer, Grab"
+      },
+      "url": ""
+    },
+    {
       "name": "Online series #4: Unit Testing for Backend",
       "date": "2020/05/09",
       "time": "13:00 - 15:00",
