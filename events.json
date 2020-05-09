@@ -9,7 +9,11 @@
         "name": "Fascal Sapty",
         "title": "Software Engineer, Doku"
       },
-      "url": "https://web.facebook.com/events/2341509266147247"
+      "url": "https://web.facebook.com/events/2341509266147247",
+      "others": {
+        "video_url": "https://www.facebook.com/groups/DevCJakarta/permalink/901216390303126",
+        "QnA_url": "https://www.facebook.com/groups/DevCJakarta/permalink/901224510302314"
+      }
     },
     {
       "name": "Online series #3: Unit Testing for Frontend",
@@ -20,7 +24,11 @@
         "name": "Ryan Rynaldo",
         "title": "Software Engineer, Bukalapak"
       },
-      "url": "https://www.facebook.com/events/527387501284134"
+      "url": "https://www.facebook.com/events/527387501284134",
+      "others": {
+        "video_url": "https://www.facebook.com/groups/DevCJakarta/permalink/896314084126690",
+        "QnA_url": "https://www.facebook.com/groups/DevCJakarta/permalink/896321094125989"
+      }
     },
     {
       "name": "Online series #2: Kubernetes for beginner",

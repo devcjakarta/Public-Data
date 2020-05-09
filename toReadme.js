@@ -31,6 +31,15 @@ const main = async () => {
         readmeContent += "\n- " + event.url;
       }
 
+      if (event.others !== undefined){
+        const others = event.others;
+        for (var item in others) {
+          key = item.replace("_", " ");
+          value = others[item];
+          readmeContent += "\n- " + key + ': ' + value;
+        }
+      }
+
       readmeContent += "\n";
     });
 
