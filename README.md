@@ -19,6 +19,7 @@ see [events.json](events.json)
 - Tanggal: 2020/05/16
 - Pukul: 13:00 - 15:00
 - Pembicara: Sonny Lazuardi,, Lead UX Engineer, Grab
+- https://web.facebook.com/events/557959478256856
 
 ### Online series #4: Unit Testing for Backend
 
