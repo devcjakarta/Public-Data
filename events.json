@@ -10,7 +10,11 @@
         "title": "Lead UX Engineer, Grab"
       },
       "banner": "20200516-13.jpg",
-      "url": "https://web.facebook.com/events/557959478256856"
+      "url": "https://web.facebook.com/events/557959478256856",
+      "others": {
+        "video_url": "https://www.facebook.com/groups/DevCJakarta/permalink/905988843159214/?ref=Carik",
+        "QnA_url": "https://www.facebook.com/groups/DevCJakarta/permalink/905990726492359/?ref=Carik"
+      }
     },
     {
       "name": "Online series #4: Unit Testing for Backend",
