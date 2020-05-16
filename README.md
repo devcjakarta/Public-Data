@@ -20,6 +20,8 @@ see [events.json](events.json)
 - Pukul: 13:00 - 15:00
 - Pembicara: Sonny Lazuardi,, Lead UX Engineer, Grab
 - https://web.facebook.com/events/557959478256856
+- video url: https://www.facebook.com/groups/DevCJakarta/permalink/905988843159214/?ref=Carik
+- QnA url: https://www.facebook.com/groups/DevCJakarta/permalink/905990726492359/?ref=Carik
 
 ### Online series #4: Unit Testing for Backend
 
