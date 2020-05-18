@@ -1,19 +1,35 @@
 {
   "data": [
     {
+      "name": "Online series #6: Programmer punya Prinsip, Prinsip SOLID",
+      "date": "2020/05/23",
+      "time": "13:00 - 15:00",
+      "type": "online",
+      "speaker": {
+        "name": "Mufti Ismi Rizqi",
+        "title": "Product Engineer, Gojek"
+      },
+      "banner": "",
+      "url": "",
+      "others": {
+        "video_url": "",
+        "QnA_url": ""
+      }
+    },
+    {
       "name": "Online series #5: UX Prototyping - Belajar React dari sisi desain",
       "date": "2020/05/16",
       "time": "13:00 - 15:00",
       "type": "online",
       "speaker": {
-        "name": "Sonny Lazuardi,",
+        "name": "Sonny Lazuardi",
         "title": "Lead UX Engineer, Grab"
       },
       "banner": "20200516-13.jpg",
       "url": "https://web.facebook.com/events/557959478256856",
       "others": {
-        "video_url": "https://www.facebook.com/groups/DevCJakarta/permalink/905988843159214/?ref=Carik",
-        "QnA_url": "https://www.facebook.com/groups/DevCJakarta/permalink/905990726492359/?ref=Carik"
+        "video_url": "https://www.facebook.com/groups/DevCJakarta/permalink/905988843159214/",
+        "QnA_url": "https://www.facebook.com/groups/DevCJakarta/permalink/905990726492359/"
       }
     },
     {
