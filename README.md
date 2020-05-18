@@ -8,20 +8,29 @@ Developer Circle Jakarta - Public Data
 
 see [events.json](events.json)
 
+- [Online series #6: Programmer punya Prinsip, Prinsip SOLID](#)
 - [Online series #5: UX Prototyping - Belajar React dari sisi desain](#)
 - [Online series #4: Unit Testing for Backend](#)
 - [Online series #3: Unit Testing for Frontend](#)
 - [Online series #2: Kubernetes for beginner](#)
 - [Online series #1: Playing with React360](#)
 
+### Online series #6: Programmer punya Prinsip, Prinsip SOLID
+
+- Tanggal: 2020/05/23
+- Pukul: 13:00 - 15:00
+- Pembicara: Mufti Ismi Rizqi, Product Engineer, Gojek
+- video url: 
+- QnA url: 
+
 ### Online series #5: UX Prototyping - Belajar React dari sisi desain
 
 - Tanggal: 2020/05/16
 - Pukul: 13:00 - 15:00
-- Pembicara: Sonny Lazuardi,, Lead UX Engineer, Grab
+- Pembicara: Sonny Lazuardi, Lead UX Engineer, Grab
 - https://web.facebook.com/events/557959478256856
-- video url: https://www.facebook.com/groups/DevCJakarta/permalink/905988843159214/?ref=Carik
-- QnA url: https://www.facebook.com/groups/DevCJakarta/permalink/905990726492359/?ref=Carik
+- video url: https://www.facebook.com/groups/DevCJakarta/permalink/905988843159214/
+- QnA url: https://www.facebook.com/groups/DevCJakarta/permalink/905990726492359/
 
 ### Online series #4: Unit Testing for Backend
 
