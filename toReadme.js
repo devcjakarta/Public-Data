@@ -10,7 +10,7 @@ const main = async () => {
     readmeHeader += "\n![Generate README](https://github.com/devcjakarta/Public-Data/workflows/Generate%20README/badge.svg)\n";
     readmeHeader += "\nDeveloper Circle Jakarta - Public Data\n";
     var readmeContent = "\n";
-    var tableOfContents = "\n## Daftar Event\n"
+    var tableOfContents = "\n## Daftar Event 2020\n"
     tableOfContents += "\nsee [events.json](events.json)\n";
     var count = dataAsJson.data.length;
     dataAsJson.data.forEach(event => {
