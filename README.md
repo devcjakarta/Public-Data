@@ -22,6 +22,7 @@ see [events.json](events.json)
 - Pembicara: 
   - Mufti Ismi Rizqi, Product Engineer, Gojek
   - Luthfi Mahendra, Machine Learning Engineer, Bytedance
+- https://www.facebook.com/events/2629255574057118/
 - video url: 
 - QnA url: 
 
