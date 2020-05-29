@@ -5,10 +5,16 @@
       "date": "2020/05/30",
       "time": "13:00 - 15:00",
       "type": "online",
-      "speaker": {
-        "name": "Mufti Ismi Rizqi, Product Engineer Gojek",
-        "title": "Luthfi Mahendra, Machine Learning Engineer Bytedance"
-      },
+      "speaker": [
+        {
+          "name": "Mufti Ismi Rizqi",
+          "title": "Product Engineer, Gojek"
+        },
+        {
+          "name": "Luthfi Mahendra",
+          "title": "Machine Learning Engineer, Bytedance"
+        }
+      ],
       "banner": "20200530-13.jpg",
       "url": "",
       "others": {

@@ -21,11 +21,21 @@ const main = async () => {
       if (event.time != ""){
         readmeContent += "\n- Pukul: " + event.time;
       }
-      if (event.speaker.name != ""){
-        readmeContent += "\n- Pembicara: " + event.speaker.name;
-        if (event.speaker.title != ""){
-          readmeContent += ", " + event.speaker.title;
-        }
+      if (Array.isArray(event.speaker)){
+        readmeContent += "\n- Pembicara: ";
+        event.speaker.forEach(item => {
+          readmeContent += "\n  - " + item.name;
+          if (item.title != ""){
+            readmeContent += ", " + item.title;
+          }
+        });
+      }else{
+        if (event.speaker.name != ""){
+          readmeContent += "\n- Pembicara: " + event.speaker.name;
+          if (event.speaker.title != ""){
+            readmeContent += ", " + event.speaker.title;
+          }
+        }  
       }
       if (event.url != ""){
         readmeContent += "\n- " + event.url;

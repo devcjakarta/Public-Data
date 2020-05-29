@@ -19,7 +19,9 @@ see [events.json](events.json)
 
 - Tanggal: 2020/05/30
 - Pukul: 13:00 - 15:00
-- Pembicara: Mufti Ismi Rizqi, Product Engineer Gojek, Luthfi Mahendra, Machine Learning Engineer Bytedance
+- Pembicara: 
+  - Mufti Ismi Rizqi, Product Engineer, Gojek
+  - Luthfi Mahendra, Machine Learning Engineer, Bytedance
 - video url: 
 - QnA url: 
 
