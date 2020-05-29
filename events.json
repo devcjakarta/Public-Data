@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "name": "Online series #6: Programmer punya Prinsip, Prinsip SOLID; Introduction to Text Classification",
+      "name": "Online series #6: Introduction to Text Classification; Programmer punya Prinsip, Prinsip SOLID.",
       "date": "2020/05/30",
       "time": "13:00 - 15:00",
       "type": "online",
       "speaker": {
         "name": "Mufti Ismi Rizqi, Product Engineer Gojek",
-        "title": "Luthfi Mahendra"
+        "title": "Luthfi Mahendra, Machine Learning Engineer Bytedance"
       },
-      "banner": "",
+      "banner": "20200530-13.jpg",
       "url": "",
       "others": {
         "video_url": "",
