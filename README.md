@@ -8,18 +8,18 @@ Developer Circle Jakarta - Public Data
 
 see [events.json](events.json)
 
-- [Online series #6: Programmer punya Prinsip, Prinsip SOLID; Introduction to Text Classification](#)
+- [Online series #6: Introduction to Text Classification; Programmer punya Prinsip, Prinsip SOLID.](#)
 - [Online series #5: UX Prototyping - Belajar React dari sisi desain](#)
 - [Online series #4: Unit Testing for Backend](#)
 - [Online series #3: Unit Testing for Frontend](#)
 - [Online series #2: Kubernetes for beginner](#)
 - [Online series #1: Playing with React360](#)
 
-### Online series #6: Programmer punya Prinsip, Prinsip SOLID; Introduction to Text Classification
+### Online series #6: Introduction to Text Classification; Programmer punya Prinsip, Prinsip SOLID.
 
 - Tanggal: 2020/05/30
 - Pukul: 13:00 - 15:00
-- Pembicara: Mufti Ismi Rizqi, Product Engineer Gojek, Luthfi Mahendra
+- Pembicara: Mufti Ismi Rizqi, Product Engineer Gojek, Luthfi Mahendra, Machine Learning Engineer Bytedance
 - video url: 
 - QnA url: 
 
