@@ -23,8 +23,8 @@ see [events.json](events.json)
   - Mufti Ismi Rizqi, Product Engineer, Gojek
   - Luthfi Mahendra, Machine Learning Engineer, Bytedance
 - https://www.facebook.com/events/2629255574057118/
-- video url: 
-- QnA url: 
+- video url: https://web.facebook.com/groups/DevCJakarta/permalink/919535918471173/
+- QnA url: https://web.facebook.com/groups/DevCJakarta/permalink/919540688470696/
 
 ### Online series #5: UX Prototyping - Belajar React dari sisi desain
 
