@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "name": "Online series #7: Stay Productive & Work Live Balance",
+      "date": "2020/06/13",
+      "time": "13:00 - 15:00",
+      "type": "online",
+      "speaker": [
+        {
+          "name": "Aji Imawan Omi",
+          "title": "Software Enginer, Tokopedia"
+        }
+      ],
+      "banner": "20200613-13.jpg",
+      "url": "",
+      "others": {
+        "video_url": "",
+        "QnA_url": ""
+      }
+    },
+    {
       "name": "Online series #6: Introduction to Text Classification; Programmer punya Prinsip, Prinsip SOLID.",
       "date": "2020/05/30",
       "time": "13:00 - 15:00",

@@ -13,8 +13,19 @@ const main = async () => {
     var tableOfContents = "\n## Daftar Event 2020\n"
     tableOfContents += "\nsee [events.json](events.json)\n";
     var count = dataAsJson.data.length;
+    var lastEvent = "";
+    var indexEvent = 1;
+    var link = "";
     dataAsJson.data.forEach(event => {
-      tableOfContents += "\n- [" + event.name + "](#)"; //todo: add hyperlink
+      link = doDashes(event.name);
+      tableOfContents += "\n- [" + event.name + "](#"+link+")"; //todo: add hyperlink
+
+      //if ((indexEvent==1)&&
+      if ((event.banner !== undefined)){
+        lastEvent = "\n## Last Event";
+        lastEvent += "\n\n![Last Event](files/image/" + event.banner + ")\n";
+        //console.log(lastEvent);process.exit();
+      }
 
       readmeContent += "\n### " + event.name + "\n";
       readmeContent += "\n- Tanggal: " + event.date;
@@ -46,11 +57,14 @@ const main = async () => {
         for (var item in others) {
           key = item.replace("_", " ");
           value = others[item];
-          readmeContent += "\n- " + key + ': ' + value;
+          if (value !== ""){
+            readmeContent += "\n- " + key + ': ' + value;
+          }
         }
       }
 
       readmeContent += "\n";
+      indexEvent++;
     });
 
     readmeContent += "\n";
@@ -62,7 +76,7 @@ const main = async () => {
     readmeFooter += "\n----\n";
     readmeFooter += "\n©️ 2020 by DevC Jakarta Team";
 
-    readmeContent = readmeHeader + tableOfContents + readmeContent + readmeFooter;
+    readmeContent = readmeHeader + lastEvent + tableOfContents + readmeContent + readmeFooter;
     console.log(readmeContent);
     fs.writeFile(path.resolve('./README.md'), readmeContent, function (err){
       if (err){
@@ -74,6 +88,10 @@ const main = async () => {
   } catch (error) {
     console.error('❌ Error read file events.json', error);
   }
+}
+
+function doDashes(str) {
+  return str.replace(/[^a-z0-9]+/gi, '-').replace(/^-*|-*$/g, '').toLowerCase();
 }
 
 main();
