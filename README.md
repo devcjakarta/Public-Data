@@ -4,16 +4,28 @@
 
 Developer Circle Jakarta - Public Data
 
+## Last Event
+
+![Last Event](files/image/20200516-13.jpg)
+
 ## Daftar Event 2020
 
 see [events.json](events.json)
 
-- [Online series #6: Introduction to Text Classification; Programmer punya Prinsip, Prinsip SOLID.](#)
-- [Online series #5: UX Prototyping - Belajar React dari sisi desain](#)
-- [Online series #4: Unit Testing for Backend](#)
-- [Online series #3: Unit Testing for Frontend](#)
-- [Online series #2: Kubernetes for beginner](#)
-- [Online series #1: Playing with React360](#)
+- [Online series #7: Stay Productive & Work Live Balance](#online-series-7-stay-productive-work-live-balance)
+- [Online series #6: Introduction to Text Classification; Programmer punya Prinsip, Prinsip SOLID.](#online-series-6-introduction-to-text-classification-programmer-punya-prinsip-prinsip-solid)
+- [Online series #5: UX Prototyping - Belajar React dari sisi desain](#online-series-5-ux-prototyping-belajar-react-dari-sisi-desain)
+- [Online series #4: Unit Testing for Backend](#online-series-4-unit-testing-for-backend)
+- [Online series #3: Unit Testing for Frontend](#online-series-3-unit-testing-for-frontend)
+- [Online series #2: Kubernetes for beginner](#online-series-2-kubernetes-for-beginner)
+- [Online series #1: Playing with React360](#online-series-1-playing-with-react360)
+
+### Online series #7: Stay Productive & Work Live Balance
+
+- Tanggal: 2020/06/13
+- Pukul: 13:00 - 15:00
+- Pembicara: 
+  - Aji Imawan Omi, Software Enginer, Tokopedia
 
 ### Online series #6: Introduction to Text Classification; Programmer punya Prinsip, Prinsip SOLID.
 
