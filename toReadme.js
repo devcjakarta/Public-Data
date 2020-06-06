@@ -20,8 +20,7 @@ const main = async () => {
       link = doDashes(event.name);
       tableOfContents += "\n- [" + event.name + "](#"+link+")"; //todo: add hyperlink
 
-      //if ((indexEvent==1)&&
-      if ((event.banner !== undefined)){
+      if ((indexEvent==1)&&(event.banner !== undefined)){
         lastEvent = "\n## Last Event";
         lastEvent += "\n\n![Last Event](files/image/" + event.banner + ")\n";
         //console.log(lastEvent);process.exit();
