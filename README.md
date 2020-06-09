@@ -26,6 +26,7 @@ see [events.json](events.json)
 - Pukul: 13:00 - 15:00
 - Pembicara: 
   - Aji Imawan Omi, Software Enginer, Tokopedia
+- https://web.facebook.com/events/779713232561495
 
 ### Online series #6: Introduction to Text Classification; Programmer punya Prinsip, Prinsip SOLID.
 
