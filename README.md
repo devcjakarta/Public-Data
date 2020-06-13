@@ -27,6 +27,8 @@ see [events.json](events.json)
 - Pembicara: 
   - Aji Imawan Omi, Software Enginer, Tokopedia
 - https://web.facebook.com/events/779713232561495
+- video url: https://web.facebook.com/groups/DevCJakarta/permalink/929927814098650/
+- Presentation url: https://docs.google.com/presentation/d/1S9JFbO6wL5XWoTW-IE92_ez63hVtJs0yCwBdzFMDaZs/edit#slide=id.g35f391192_00
 
 ### Online series #6: Introduction to Text Classification; Programmer punya Prinsip, Prinsip SOLID.
 
