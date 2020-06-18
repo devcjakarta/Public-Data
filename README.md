@@ -27,6 +27,7 @@ see [events.json](events.json)
 - Pukul: 13:00 - 15:00
 - Pembicara: 
   - Fachrin Aulia Nasution, Product Engineer, Gojek
+- https://web.facebook.com/events/554379655443696/
 - Presentation url: https://docs.google.com/presentation/d/1K4gw3ityYnprraGSHzOqdGK3CPTW3IA-j9h0qM3DF5g/edit?usp=sharing
 
 ### Online series #7: Stay Productive & Work Live Balance
