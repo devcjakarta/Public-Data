@@ -6,7 +6,7 @@ Developer Circle Jakarta - Public Data
 
 ## Last Event
 
-![Last Event](files/image/20200620-13.jpg)
+![Last Event](files/image/)
 
 ## Daftar Event 2020
 
