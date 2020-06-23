@@ -1,6 +1,26 @@
 {
   "data": [
     {
+            "name": "Online series #9: Ask Me Anything",
+            "date": "2020/06/28",
+            "time": "19:00 - 21:00",
+            "type": "online",
+            "speaker": [
+              {
+                "name": "Luri Darmawan",
+                "title": "Creator, Carik"
+              }
+            ],
+            "banner": "",
+            "url": "",
+            "description": "",
+            "others": {
+              "video_url": "",
+              "QnA_url": "",
+              "Presentation_url": ""
+            }
+    },
+    {
       "name": "Online series #8: How to Think in Functional Programming",
       "date": "2020/06/20",
       "time": "13:00 - 15:00",
