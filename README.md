@@ -6,12 +6,13 @@ Developer Circle Jakarta - Public Data
 
 ## Last Event
 
-![Last Event](files/image/20200620-13.jpg)
+![Last Event](files/image/)
 
 ## Daftar Event 2020
 
 see [events.json](events.json)
 
+- [Online series #9: Ask Me Anything](#online-series-9-ask-me-anything)
 - [Online series #8: How to Think in Functional Programming](#online-series-8-how-to-think-in-functional-programming)
 - [Online series #7: Stay Productive & Work Live Balance](#online-series-7-stay-productive-work-live-balance)
 - [Online series #6: Introduction to Text Classification; Programmer punya Prinsip, Prinsip SOLID.](#online-series-6-introduction-to-text-classification-programmer-punya-prinsip-prinsip-solid)
@@ -20,6 +21,13 @@ see [events.json](events.json)
 - [Online series #3: Unit Testing for Frontend](#online-series-3-unit-testing-for-frontend)
 - [Online series #2: Kubernetes for beginner](#online-series-2-kubernetes-for-beginner)
 - [Online series #1: Playing with React360](#online-series-1-playing-with-react360)
+
+### Online series #9: Ask Me Anything
+
+- Tanggal: 2020/06/28
+- Pukul: 19:00 - 21:00
+- Pembicara: 
+  - Luri Darmawan, Creator, Carik
 
 ### Online series #8: How to Think in Functional Programming
 
