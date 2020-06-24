@@ -6,7 +6,7 @@ Developer Circle Jakarta - Public Data
 
 ## Last Event
 
-![Last Event](files/image/)
+![Last Event](files/image/20200628-13.jpg)
 
 ## Daftar Event 2020
 
@@ -28,6 +28,7 @@ see [events.json](events.json)
 - Pukul: 19:00 - 21:00
 - Pembicara: 
   - Luri Darmawan, Creator, Carik
+- https://web.facebook.com/events/2901069809992075/
 
 ### Online series #8: How to Think in Functional Programming
 
