@@ -30,6 +30,7 @@ see [events.json](events.json)
   - Luri Darmawan, Creator, Carik
 - https://web.facebook.com/events/2901069809992075/
 - Registration url: https://us02web.zoom.us/meeting/register/tZAqfuyrqT4iE9zXSvNY9m9l07YpHbtqqudp
+- QnA url: https://web.facebook.com/groups/DevCJakarta/permalink/924240681334030/
 
 ### Online series #8: How to Think in Functional Programming
 
