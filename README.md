@@ -28,7 +28,7 @@ see [events.json](events.json)
 - Pukul: 19:00 - 21:00
 - Pembicara: 
   - Luri Darmawan, Creator, Carik
-- https://web.facebook.com/events/2901069809992075/
+- facebook.com/events/2901069809992075/
 - Registration: https://us02web.zoom.us/meeting/register/tZAqfuyrqT4iE9zXSvNY9m9l07YpHbtqqudp
 - video: https://web.facebook.com/groups/DevCJakarta/permalink/940725683018863/
 - QnA: https://web.facebook.com/groups/DevCJakarta/permalink/924240681334030/
@@ -39,7 +39,7 @@ see [events.json](events.json)
 - Pukul: 13:00 - 15:00
 - Pembicara: 
   - Fachrin Aulia Nasution, Product Engineer, Gojek
-- https://web.facebook.com/events/554379655443696/
+- facebook.com/events/554379655443696/
 - Presentation: https://docs.google.com/presentation/d/1K4gw3ityYnprraGSHzOqdGK3CPTW3IA-j9h0qM3DF5g/edit?usp=sharing
 
 ### Online series #7: Stay Productive & Work Live Balance
@@ -48,7 +48,7 @@ see [events.json](events.json)
 - Pukul: 13:00 - 15:00
 - Pembicara: 
   - Aji Imawan Omi, Software Enginer, Tokopedia
-- https://web.facebook.com/events/779713232561495
+- facebook.com/events/779713232561495
 - video: https://web.facebook.com/groups/DevCJakarta/permalink/929927814098650/
 - QnA: https://web.facebook.com/groups/DevCJakarta/permalink/929936337431131
 - Presentation: https://docs.google.com/presentation/d/1S9JFbO6wL5XWoTW-IE92_ez63hVtJs0yCwBdzFMDaZs/edit#slide=id.g35f391192_00
@@ -60,7 +60,7 @@ see [events.json](events.json)
 - Pembicara: 
   - Mufti Ismi Rizqi, Product Engineer, Gojek
   - Luthfi Mahendra, Machine Learning Engineer, Bytedance
-- https://www.facebook.com/events/2629255574057118/
+- facebook.com/events/2629255574057118/
 - video: https://web.facebook.com/groups/DevCJakarta/permalink/919535918471173/
 - QnA: https://web.facebook.com/groups/DevCJakarta/permalink/919540688470696/
 
