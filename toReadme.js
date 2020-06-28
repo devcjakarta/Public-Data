@@ -54,7 +54,8 @@ const main = async () => {
       if (event.others !== undefined){
         const others = event.others;
         for (var item in others) {
-          key = item.replace("_", " ");
+          key = item.replace("_url", "");
+          key = key.replace("_", " ");
           value = others[item];
           if (value !== ""){
             readmeContent += "\n- " + key + ': ' + value;
