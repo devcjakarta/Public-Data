@@ -1,6 +1,27 @@
 {
   "data": [
     {
+      "name": "Online series #10: Remote Working? Is it good as it souds?",
+      "date": "2020/07/05",
+      "time": "19:00 - 21:00",
+      "type": "online",
+      "speaker": [
+        {
+          "name": "Tsara Fatma L Sudrajat",
+          "title": "Senior Backend Engineer, Sweetrush Inc."
+        }
+      ],
+      "banner": "20200705-19.jpg",
+      "url": "",
+      "description": "",
+      "others": {
+        "Registration_url": "",
+        "video_url": "",
+        "QnA_url": "",
+        "Presentation_url": ""
+      }
+    },
+    {
       "name": "Online series #9: Ask Me Anything",
       "date": "2020/06/28",
       "time": "19:00 - 21:00",
