@@ -6,12 +6,13 @@ Developer Circle Jakarta - Public Data
 
 ## Last Event
 
-![Last Event](files/image/20200628-13.jpg)
+![Last Event](files/image/20200705-19.jpg)
 
 ## Daftar Event 2020
 
 see [events.json](events.json)
 
+- [Online series #10: Remote Working? Is it good as it souds?](#online-series-10-remote-working-is-it-good-as-it-souds)
 - [Online series #9: Ask Me Anything](#online-series-9-ask-me-anything)
 - [Online series #8: How to Think in Functional Programming](#online-series-8-how-to-think-in-functional-programming)
 - [Online series #7: Stay Productive & Work Live Balance](#online-series-7-stay-productive-work-live-balance)
@@ -21,6 +22,13 @@ see [events.json](events.json)
 - [Online series #3: Unit Testing for Frontend](#online-series-3-unit-testing-for-frontend)
 - [Online series #2: Kubernetes for beginner](#online-series-2-kubernetes-for-beginner)
 - [Online series #1: Playing with React360](#online-series-1-playing-with-react360)
+
+### Online series #10: Remote Working? Is it good as it souds?
+
+- Tanggal: 2020/07/05
+- Pukul: 19:00 - 21:00
+- Pembicara: 
+  - Tsara Fatma L Sudrajat, Senior Backend Engineer, Sweetrush Inc.
 
 ### Online series #9: Ask Me Anything
 
