@@ -28,7 +28,7 @@ see [events.json](events.json)
 - Tanggal: 2020/07/05
 - Pukul: 19:00 - 21:00
 - Pembicara: 
-  - Tsara Fatma L Sudrajat, Senior Rails Developer, SweetRush Inc.
+  - Tsara Fatma L Sudrajat, Senior Rails Developer, working remotely for a US company.
 
 ### Online series #9: Ask Me Anything
 
