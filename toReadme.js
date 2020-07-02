@@ -58,7 +58,7 @@ const main = async () => {
           key = key.replace("_", " ");
           value = others[item];
           if (value !== ""){
-            readmeContent += "\n- " + key + ': ' + value;
+            readmeContent += "\n- [" + key + '](' + value + ')';
           }
         }
       }
