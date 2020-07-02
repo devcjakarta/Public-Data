@@ -22,6 +22,11 @@ see [events.json](events.json)
 - [Online series #3: Unit Testing for Frontend](#online-series-3-unit-testing-for-frontend)
 - [Online series #2: Kubernetes for beginner](#online-series-2-kubernetes-for-beginner)
 - [Online series #1: Playing with React360](#online-series-1-playing-with-react360)
+- [Onsite Mentoring Study Group #studyjam 2](#onsite-mentoring-study-group-studyjam-2)
+- [International Women's Day 2020](#international-women-s-day-2020)
+- [Onsite Mentoring Study Group #studyjam](#onsite-mentoring-study-group-studyjam)
+- [Mentoring Session Batch 3](#mentoring-session-batch-3)
+- [Build your own personal website using Gatsby](#build-your-own-personal-website-using-gatsby)
 
 ### Online series #10: Remote Working? Is it good as it souds?
 
@@ -112,6 +117,58 @@ see [events.json](events.json)
 - Pukul: 17:00 - 18:00
 - Pembicara: Rizal Ibnu, Frontend Enginer, Kumparan
 - https://web.facebook.com/events/673643483180170/
+
+### Onsite Mentoring Study Group #studyjam 2
+
+- Tanggal: 2020/03/14
+- Pukul: 12:00 - 17:00
+- Pembicara: 
+  - All Mentor, DevC
+- https://web.facebook.com/events/2337935356447102/
+
+### International Women's Day 2020
+
+- Tanggal: 2020/03/07
+- Pukul: 12:00 - 18:00
+- Pembicara: 
+  - Henny Limbong, Big Data Project Manager & Data Analyst, OVO
+  - Noni Marine, Software Quality Assurance, TADA
+  - Yolanda Septiani, Mobile Application Developer, Bukalapak
+- https://web.facebook.com/events/572985089958593/
+- Registration: https://iwd2020devcfg.splashthat.com 
+
+### Onsite Mentoring Study Group #studyjam
+
+- Tanggal: 2020/02/29
+- Pukul: 12:00 - 17:00
+- Pembicara: 
+  - All Mentor, DevC
+- https://web.facebook.com/events/574253526499524/
+
+### Mentoring Session Batch 3
+
+- Tanggal: 2020/02/15
+- Pukul: 15:00 - 20:00
+- Pembicara: 
+  - Reno Putra Prawira, Software Engineer, Kumparan
+  - Adrian Edbert Luman, Data Engineer, Vidio
+  - Muhammad Aisy, Software Engineer, PT. Satkomindo
+  - Maksum Rifai, Supervisor IT, Penthouse
+  - Muhibbudin Suretno, Software Engineer, Orori
+  - Luthfi Mahendra, ML Engineer, Bytedance
+  - Ihsan Satriawan, Software Engineer, Tokopedia
+  - Khairunissa, Fullstack Engineer, BTPN
+  - Chrysilla Mayasari, Frontend Engineer, Gojek
+  - Wahyu Tri Laksono, Software Engineer, Bank Mandiri
+- https://web.facebook.com/events/1265734030291730/
+
+### Build your own personal website using Gatsby
+
+- Tanggal: 2020/01/25
+- Pukul: 13:00 - 17:00
+- Pembicara: 
+  - Muhibbudin Suretno, Senior Software Engineer, ORORI.com
+- https://web.facebook.com/events/163530268308983/
 
 
 ## Bantu kami
