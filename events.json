@@ -171,6 +171,145 @@
         "title": "Frontend Enginer, Kumparan"
       },
       "url": "https://web.facebook.com/events/673643483180170/"
+    },
+    {
+      "name": "Onsite Mentoring Study Group #studyjam 2",
+      "date": "2020/03/14",
+      "time": "12:00 - 17:00",
+      "type": "seminar",
+      "speaker": [
+        {
+          "name": "All Mentor",
+          "title": "DevC"
+        }
+      ],
+      "banner": "20200314-12.jpg",
+      "url": "https://web.facebook.com/events/2337935356447102/",
+      "description": "A series of second meetup for study group in mentoring batch 3 x Datacamp, Openclassroom and Udacity awardees",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": ""
+      }
+    },
+    {
+      "name": "International Women's Day 2020",
+      "date": "2020/03/07",
+      "time": "12:00 - 18:00",
+      "type": "seminar",
+      "speaker": [
+        {
+          "name": "Henny Limbong",
+          "title": "Big Data Project Manager & Data Analyst, OVO"
+        },
+        {
+          "name": "Noni Marine",
+          "title": "Software Quality Assurance, TADA"
+        },
+        {
+          "name": "Yolanda Septiani",
+          "title": "Mobile Application Developer, Bukalapak"
+        }
+      ],
+      "banner": "20200307-12.jpg",
+      "url": "https://web.facebook.com/events/572985089958593/",
+      "description": "Yuk rayakan Hari Wanita Sedunia bersama Facebook DevC Jakarta & Femalegeek!\nPerayaan ini sekaligus membahas berbagai isu. Salah satunya adalah lingkungan IT yang umumnya didominasi laki-laki yang terkadang bisa bikin kamu minder saat bekerja dan sulit membaur dengan rekan kerja.\nDaftarkan dirimu segera karena acaranya bakal seru banget! Ada sharing session dan tanya jawab dengan wanita-wanita yang berkecimpung di dunia IT lho!\nAcara ini GRATIS!",
+      "others": {
+        "Registration_url": "https://iwd2020devcfg.splashthat.com ",
+        "Presentation_url": ""
+      }
+    },
+    {
+      "name": "Onsite Mentoring Study Group #studyjam",
+      "date": "2020/02/29",
+      "time": "12:00 - 17:00",
+      "type": "seminar",
+      "speaker": [
+        {
+          "name": "All Mentor",
+          "title": "DevC"
+        }
+      ],
+      "banner": "20200229-12.jpg",
+      "url": "https://web.facebook.com/events/574253526499524/",
+      "description": "Onsite mentoring for:\n-DreamS\n-MulaiAjaDulu\n-DataRangers\n-DataMagic",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": ""
+      }
+    },
+    {
+      "name": "Mentoring Session Batch 3",
+      "date": "2020/02/15",
+      "time": "15:00 - 20:00",
+      "type": "seminar",
+      "speaker": [
+        {
+          "name": "Reno Putra Prawira",
+          "title": "Software Engineer, Kumparan"
+        },
+        {
+          "name": "Adrian Edbert Luman",
+          "title": "Data Engineer, Vidio"
+        },
+        {
+          "name": "Muhammad Aisy",
+          "title": "Software Engineer, PT. Satkomindo"
+        },
+        {
+          "name": "Maksum Rifai",
+          "title": "Supervisor IT, Penthouse"
+        },
+        {
+          "name": "Muhibbudin Suretno",
+          "title": "Software Engineer, Orori"
+        },
+        {
+          "name": "Luthfi Mahendra",
+          "title": "ML Engineer, Bytedance"
+        },
+        {
+          "name": "Ihsan Satriawan",
+          "title": "Software Engineer, Tokopedia"
+        },
+        {
+          "name": "Khairunissa",
+          "title": "Fullstack Engineer, BTPN"
+        },
+        {
+          "name": "Chrysilla Mayasari",
+          "title": "Frontend Engineer, Gojek"
+        },
+        {
+          "name": "Wahyu Tri Laksono",
+          "title": "Software Engineer, Bank Mandiri"
+        }
+      ],
+      "banner": "20200215-15.jpg",
+      "url": "https://web.facebook.com/events/1265734030291730/",
+      "description": "Hallo member #devcjkt\nMentoring Session hadir lagi dengan bentuk yang lebih menarik! Gabungan antara Mentoring dan Study Group dari Facebook Developer Circles!\nJadi, kamu bukan hanya bakalan mendapatkan mentor dan dibimbing mengenai career tapi kamu juga bisa bergabung dengan study group mengenai Web Development, Machine learning ataupun Data dari course yang telah disediakan!\nBelum mendapatkan kesempatan untuk menerima course dari DevC? Jangan berkecil hati, kamu masih bisa untuk ikutan acara ini dan menyaksikan Talk Menarik dari Yohanes Bandung mengenai Flow Typed Implementation on Kumparan.",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": ""
+      }
+    },
+    {
+      "name": "Build your own personal website using Gatsby",
+      "date": "2020/01/25",
+      "time": "13:00 - 17:00",
+      "type": "seminar",
+      "speaker": [
+        {
+          "name": "Muhibbudin Suretno",
+          "title": "Senior Software Engineer, ORORI.com"
+        }
+      ],
+      "banner": "20200125-12.jpg",
+      "url": "https://web.facebook.com/events/163530268308983/",
+      "description": "Hi All!\nLet's join our first meetup in 2020!\nBuild your own personal website using Gatsby\nwith Muhibbudin Suretno\nSenior Software Engineer, ORORI.com\n\nReminder :\n- Peserta sangat terbatas, dan akan dilakukan filtering dahulu.",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": ""
+      }
     }
   ]
 }
