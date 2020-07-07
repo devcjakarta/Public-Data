@@ -12,7 +12,7 @@ Developer Circle Jakarta - Public Data
 
 see [events.json](events.json)
 
-- [Online series #10: Remote Working? Is it good as it souds? (pending)](#online-series-10-remote-working-is-it-good-as-it-souds-pending)
+- [TBA: Remote Working? Is it good as it souds? (pending)](#tba-remote-working-is-it-good-as-it-souds-pending)
 - [Online series #10: Evolution Architecture - From Monolith to Microservice](#online-series-10-evolution-architecture-from-monolith-to-microservice)
 - [Online series #9: Ask Me Anything](#online-series-9-ask-me-anything)
 - [Online series #8: How to Think in Functional Programming](#online-series-8-how-to-think-in-functional-programming)
@@ -29,7 +29,7 @@ see [events.json](events.json)
 - [Mentoring Session Batch 3](#mentoring-session-batch-3)
 - [Build your own personal website using Gatsby](#build-your-own-personal-website-using-gatsby)
 
-### Online series #10: Remote Working? Is it good as it souds? (pending)
+### TBA: Remote Working? Is it good as it souds? (pending)
 
 - Tanggal: TBA
 - Pukul: 19:00 - 21:00
