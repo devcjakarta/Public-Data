@@ -1,13 +1,61 @@
 {
   "data": [
     {
+      "name": "Adrian Edbert Luman",
+      "title": "",
+      "summary": "",
+      "picture": "adrian.jpg",
+      "socialMedia":[
+        {
+          "facebook": "https://web.facebook.com/adrian.luman",
+          "linkedin": ""
+        }
+      ]
+    },    
+    {
       "name": "Aisy Muhammad Rozsidhy",
       "title": "Fullstack engineer, PT Satkomindo Mediyasa",
       "summary": "",
-      "picture": "aisy.png",
+      "picture": "aisy.jpg",
       "socialMedia":[
         {
           "facebook": "https://web.facebook.com/aisymr",
+          "linkedin": ""
+        }
+      ]
+    },
+    {
+      "name": "Arfi Bintang Gumilang",
+      "title": "",
+      "summary": "",
+      "picture": "arfi.jpg",
+      "socialMedia":[
+        {
+          "facebook": "https://web.facebook.com/arfi.bintanggumilang",
+          "linkedin": ""
+        }
+      ]
+    },
+    {
+      "name": "Gazandi Cahyadarma",
+      "title": "Backend Developer, Bukalapak",
+      "summary": "",
+      "picture": "gazan.jpg",
+      "socialMedia":[
+        {
+          "facebook": "https://web.facebook.com/gazandi",
+          "linkedin": ""
+        }
+      ]
+    },
+    {
+      "name": "Imam Aris Munandar",
+      "title": "Developer, Time Intenational",
+      "summary": "",
+      "picture": "imam.jpg",
+      "socialMedia":[
+        {
+          "facebook": "https://web.facebook.com/imam.arismunand",
           "linkedin": ""
         }
       ]
@@ -23,6 +71,18 @@
           "linkedin": ""
         }
       ]
+    },
+    {
+      "name": "Muhammad Rivki",
+      "title": "Frontend Engineer, Bukalapak",
+      "summary": "",
+      "picture": "rivki.jpg",
+      "socialMedia":[
+        {
+          "facebook": "https://web.facebook.com/this.rivki",
+          "linkedin": ""
+        }
+      ]
     }
- ]
+  ]
 }
