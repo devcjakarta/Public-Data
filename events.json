@@ -149,6 +149,7 @@
         "title": "Software Engineer, Doku"
       },
       "url": "https://web.facebook.com/events/2341509266147247",
+      "banner": "20200509-13.jpg",
       "others": {
         "video_url": "https://www.facebook.com/groups/DevCJakarta/permalink/901216390303126",
         "QnA_url": "https://www.facebook.com/groups/DevCJakarta/permalink/901224510302314"
@@ -164,6 +165,7 @@
         "title": "Software Engineer, Bukalapak"
       },
       "url": "https://www.facebook.com/events/527387501284134",
+      "banner": "20200502-13.jpg",
       "others": {
         "video_url": "https://www.facebook.com/groups/DevCJakarta/permalink/896314084126690",
         "QnA_url": "https://www.facebook.com/groups/DevCJakarta/permalink/896321094125989"
@@ -178,7 +180,8 @@
         "name": "Gazandi Cahyadarma",
         "title": "Sofware Engineer, Bukalapak"
       },
-      "url": "https://web.facebook.com/events/826776221164017/"
+      "url": "https://web.facebook.com/events/826776221164017/",
+      "banner": "20200425-13.jpg"
     },
     {
       "name": "Online series #1: Playing with React360",
@@ -189,7 +192,8 @@
         "name": "Rizal Ibnu",
         "title": "Frontend Enginer, Kumparan"
       },
-      "url": "https://web.facebook.com/events/673643483180170/"
+      "url": "https://web.facebook.com/events/673643483180170/",
+      "banner": "20200418-17.jpg"
     },
     {
       "name": "Onsite Mentoring Study Group #studyjam 2",
