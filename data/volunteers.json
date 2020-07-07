@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "Aisy Muhammad Rozsidhy",
+      "title": "Fullstack engineer, PT Satkomindo Mediyasa",
+      "summary": "",
+      "picture": "aisy.png",
+      "socialMedia":[
+        {
+          "facebook": "https://web.facebook.com/aisymr",
+          "linkedin": ""
+        }
+      ]
+    },
+    {
+      "name": "Ina Muthia Kanza",
+      "title": "Business Intelligence Analyst at Ministry of Industry of The Republic of Indonesia",
+      "summary": "",
+      "picture": "ina-mutia-kanza.jpg",
+      "socialMedia":[
+        {
+          "facebook": "https://web.facebook.com/inamuthiakanza",
+          "linkedin": ""
+        }
+      ]
+    }
+ ]
+}
