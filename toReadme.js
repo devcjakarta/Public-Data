@@ -3,7 +3,7 @@ const path = require('path');
 
 const main = async () => {
   try {
-    const dataAsString = await fs.readFileSync(path.resolve(`./events.json`), { encoding: 'utf-8' });
+    const dataAsString = await fs.readFileSync(path.resolve(`./data/events.json`), { encoding: 'utf-8' });
     const dataAsJson = JSON.parse(dataAsString);
 
     var readmeHeader = "# Developer Circle Jakarta - Public Data\n";
@@ -11,7 +11,7 @@ const main = async () => {
     readmeHeader += "\nDeveloper Circle Jakarta - Public Data\n";
     var readmeContent = "\n";
     var tableOfContents = "\n## Daftar Event 2020\n"
-    tableOfContents += "\nsee [events.json](events.json)\n";
+    tableOfContents += "\nsee [events.json](data/events.json)\n";
     var count = dataAsJson.data.length;
     var lastEvent = "";
     var indexEvent = 1;
