@@ -10,7 +10,7 @@ Developer Circle Jakarta - Public Data
 
 ## Daftar Event 2020
 
-see [events.json](events.json)
+see [events.json](data/events.json)
 
 - [TBA: Remote Working? Is it good as it souds? (pending)](#tba-remote-working-is-it-good-as-it-souds-pending)
 - [Online series #10: Evolution Architecture - From Monolith to Microservice](#online-series-10-evolution-architecture-from-monolith-to-microservice)
