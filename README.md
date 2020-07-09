@@ -42,6 +42,7 @@ see [events.json](data/events.json)
 - Pukul: 19:00 - 21:00
 - Pembicara: 
   - Bukhori Muhammad Aqid, Co Founder, Medigo Indonesia & Flipbox
+- https://web.facebook.com/events/307223206990865/
 
 ### Online series #9: Ask Me Anything
 
