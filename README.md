@@ -12,7 +12,7 @@ Developer Circle Jakarta - Public Data
 
 see [events.json](data/events.json)
 
-- [TBA: Remote Working? Is it good as it souds? (pending)](#tba-remote-working-is-it-good-as-it-souds-pending)
+- [Online series #11: Remote Working? Is it good as it souds? (pending)](#online-series-11-remote-working-is-it-good-as-it-souds-pending)
 - [Online series #10: Evolution Architecture - From Monolith to Microservice](#online-series-10-evolution-architecture-from-monolith-to-microservice)
 - [Online series #9: Ask Me Anything](#online-series-9-ask-me-anything)
 - [Online series #8: How to Think in Functional Programming](#online-series-8-how-to-think-in-functional-programming)
@@ -29,9 +29,9 @@ see [events.json](data/events.json)
 - [Mentoring Session Batch 3](#mentoring-session-batch-3)
 - [Build your own personal website using Gatsby](#build-your-own-personal-website-using-gatsby)
 
-### TBA: Remote Working? Is it good as it souds? (pending)
+### Online series #11: Remote Working? Is it good as it souds? (pending)
 
-- Tanggal: TBA
+- Tanggal: 2020/07/19
 - Pukul: 19:00 - 21:00
 - Pembicara: 
   - Tsara Fatma L Sudrajat, Senior Rails Developer, working remotely for a US company.
