@@ -5,22 +5,22 @@
       "title": "",
       "summary": "",
       "picture": "adrian.jpg",
-      "socialMedia":[
+      "socialMedia": [
         {
           "facebook": "https://web.facebook.com/adrian.luman",
           "linkedin": ""
         }
       ]
-    },    
+    },
     {
       "name": "Aisy Muhammad Rozsidhy",
-      "title": "Fullstack engineer, PT Satkomindo Mediyasa",
-      "summary": "",
+      "title": "Full-stack Engineer, PT Satkomindo Mediyasa BRI Group",
+      "summary": "Loving Design and Code, focuses on Front-end with javascript and Back-end with Google Language and Javascript (but he says that he's not fullstack), besides code skills he likes to design graphics and follow current graphic design trends.",
       "picture": "aisy.jpg",
-      "socialMedia":[
+      "socialMedia": [
         {
           "facebook": "https://web.facebook.com/aisymr",
-          "linkedin": ""
+          "linkedin": "https://www.linkedin.com/in/aisy-rozsidhy-715587aa/"
         }
       ]
     },
@@ -29,7 +29,7 @@
       "title": "",
       "summary": "",
       "picture": "arfi.jpg",
-      "socialMedia":[
+      "socialMedia": [
         {
           "facebook": "https://web.facebook.com/arfi.bintanggumilang",
           "linkedin": ""
@@ -41,7 +41,7 @@
       "title": "Software Engineer, Ruangguru",
       "summary": "An experienced software engineer, a former team leader, with 3 years of background in one of big e-commerce player in Indonesia. Strategic thinker, innovative creator, and confident communicator across the teams. Moreover, he has broad interests in the backend, infrastructure, and system.",
       "picture": "gazan.jpg",
-      "socialMedia":[
+      "socialMedia": [
         {
           "facebook": "https://web.facebook.com/gazandi",
           "linkedin": "https://www.linkedin.com/in/gazandi-cahyadarma-86b726a1/"
@@ -53,7 +53,7 @@
       "title": "Developer, Time Intenational",
       "summary": "",
       "picture": "imam.jpg",
-      "socialMedia":[
+      "socialMedia": [
         {
           "facebook": "https://web.facebook.com/imam.arismunand",
           "linkedin": ""
@@ -65,7 +65,7 @@
       "title": "Business Intelligence Analyst at Ministry of Industry of The Republic of Indonesia",
       "summary": "",
       "picture": "ina-mutia-kanza.jpg",
-      "socialMedia":[
+      "socialMedia": [
         {
           "facebook": "https://web.facebook.com/inamuthiakanza",
           "linkedin": ""
@@ -77,7 +77,7 @@
       "title": "Frontend Engineer, Bukalapak",
       "summary": "",
       "picture": "rivki.jpg",
-      "socialMedia":[
+      "socialMedia": [
         {
           "facebook": "https://web.facebook.com/this.rivki",
           "linkedin": ""
@@ -89,7 +89,7 @@
       "title": "",
       "summary": "Enthusiast in Tech, Education, Journalism, Communities, Startups, Etc.",
       "picture": "rifai.jpg",
-      "socialMedia":[
+      "socialMedia": [
         {
           "facebook": "https://web.facebook.com/maxsum.reevay",
           "linkedin": "https://linkedin.com/in/maksumrifai"
@@ -98,6 +98,3 @@
     }
   ]
 }
-    
-
-
