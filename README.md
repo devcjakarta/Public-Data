@@ -44,6 +44,7 @@ see [events.json](data/events.json)
   - Bukhori Muhammad Aqid, Co Founder, Medigo Indonesia & Flipbox
 - https://web.facebook.com/events/307223206990865/
 - [video](https://web.facebook.com/groups/DevCJakarta/permalink/950246038733494/)
+- [QnA](https://www.facebook.com/groups/DevCJakarta/permalink/950258482065583/)
 
 ### Online series #9: Ask Me Anything
 
