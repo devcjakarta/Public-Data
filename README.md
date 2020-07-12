@@ -43,6 +43,7 @@ see [events.json](data/events.json)
 - Pembicara: 
   - Bukhori Muhammad Aqid, Co Founder, Medigo Indonesia & Flipbox
 - https://web.facebook.com/events/307223206990865/
+- [video](https://web.facebook.com/groups/DevCJakarta/permalink/950246038733494/)
 
 ### Online series #9: Ask Me Anything
 
