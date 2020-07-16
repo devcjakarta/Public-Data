@@ -35,6 +35,7 @@ see [events.json](data/events.json)
 - Pukul: 19:00 - 21:00
 - Pembicara: 
   - Tsara Fatma L Sudrajat, Senior Rails Developer, working remotely for a US company.
+- https://web.facebook.com/events/720821202094407/
 
 ### Online series #10: Evolution Architecture - From Monolith to Microservice
 
