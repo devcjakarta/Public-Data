@@ -36,6 +36,8 @@ see [events.json](data/events.json)
 - Pembicara: 
   - Tsara Fatma L Sudrajat, Senior Rails Developer, working remotely for a US company.
 - https://web.facebook.com/events/720821202094407/
+- [video](https://web.facebook.com/annereginancy/videos/10222475071681467/)
+- [QnA](https://web.facebook.com/groups/DevCJakarta/permalink/954500814974683)
 
 ### Online series #10: Evolution Architecture - From Monolith to Microservice
 
