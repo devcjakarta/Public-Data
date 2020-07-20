@@ -6,7 +6,7 @@ Developer Circle Jakarta - Public Data
 
 ## Last Event
 
-![Last Event](files/image/)
+![Last Event](files/image/20200729-21.jpg)
 
 ## Daftar Event 2020
 
@@ -36,6 +36,7 @@ see [events.json](data/events.json)
 - Pukul: 19:00 - 20:00
 - Pembicara: 
   - Kevin Sutrisno, Lead Game Engineer, Shopee
+- [Registration](https://bit.ly/shopeewebinar6)
 
 ### Online series #11: Remote working? Is it as good as it sounds?
 
