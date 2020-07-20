@@ -1,6 +1,25 @@
 {
   "data": [
     {
+      "name": "Online series #12: Make a Game with Phaser 3 and Typescript",
+      "date": "2020/07/29",
+      "time": "19:00 - 20:00",
+      "type": "seminar",
+      "speaker": [
+        {
+          "name": "Kevin Sutrisno",
+          "title": "Lead Game Engineer, Shopee"
+        }
+      ],
+      "banner": "",
+      "url": "",
+      "description": "",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": ""
+      }
+    },    
+    {
       "name": "Online series #11: Remote working? Is it as good as it sounds?",
       "date": "2020/07/19",
       "time": "19:00 - 21:00",
