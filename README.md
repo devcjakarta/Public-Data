@@ -36,6 +36,7 @@ see [events.json](data/events.json)
 - Pukul: 19:00 - 20:00
 - Pembicara: 
   - Kevin Sutrisno, Lead Game Engineer, Shopee
+- https://web.facebook.com/events/3043052425815265/
 - [Registration](https://bit.ly/shopeewebinar6)
 
 ### Online series #11: Remote working? Is it as good as it sounds?
