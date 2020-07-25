@@ -1,10 +1,29 @@
 {
   "data": [
     {
+      "name": "Online series #13: Contributing to open source project - How to get started",
+      "date": "2020/08/02",
+      "time": "19:00 - 21:00",
+      "type": "online",
+      "speaker": [
+        {
+          "name": "Adysurya Agus",
+          "title": "Software Engineering, Warung Pintar"
+        }
+      ],
+      "banner": "20200802-19.jpg",
+      "url": "",
+      "description": "",
+      "others": {
+        "Registration_url": "",
+        "Presentation_url": ""
+      }
+    },    
+    {
       "name": "Online series #12: Make a Game with Phaser 3 and Typescript",
       "date": "2020/07/29",
       "time": "19:00 - 20:00",
-      "type": "seminar",
+      "type": "online",
       "speaker": [
         {
           "name": "Kevin Sutrisno",
