@@ -6,12 +6,13 @@ Developer Circle Jakarta - Public Data
 
 ## Last Event
 
-![Last Event](files/image/20200729-21.jpg)
+![Last Event](files/image/20200802-19.jpg)
 
 ## Daftar Event 2020
 
 see [events.json](data/events.json)
 
+- [Online series #13: Contributing to open source project - How to get started](#online-series-13-contributing-to-open-source-project-how-to-get-started)
 - [Online series #12: Make a Game with Phaser 3 and Typescript](#online-series-12-make-a-game-with-phaser-3-and-typescript)
 - [Online series #11: Remote working? Is it as good as it sounds?](#online-series-11-remote-working-is-it-as-good-as-it-sounds)
 - [Online series #10: Evolution Architecture - From Monolith to Microservice](#online-series-10-evolution-architecture-from-monolith-to-microservice)
@@ -29,6 +30,13 @@ see [events.json](data/events.json)
 - [Onsite Mentoring Study Group #studyjam](#onsite-mentoring-study-group-studyjam)
 - [Mentoring Session Batch 3](#mentoring-session-batch-3)
 - [Build your own personal website using Gatsby](#build-your-own-personal-website-using-gatsby)
+
+### Online series #13: Contributing to open source project - How to get started
+
+- Tanggal: 2020/08/02
+- Pukul: 19:00 - 21:00
+- Pembicara: 
+  - Adysurya Agus, Software Engineering, Warung Pintar
 
 ### Online series #12: Make a Game with Phaser 3 and Typescript
 
