@@ -12,10 +12,10 @@
         }
       ],
       "banner": "20200802-19.jpg",
-      "url": "",
-      "description": "",
+      "url": "https://web.facebook.com/events/299663777941208/",
+      "description": "Berkontribusi di dunia open source bukan hanya sekedar mengisi waktu luang! Dengan berkontribusi artinya kita ikut serta menyediakan tools untuk dipakai bersama semua orang seluruh dunia! Bayangkan berapa banyak yang bisa tertolong dalam pekerjaannya karena kita. Terus bagaimana kita bisa berkontribusi dalam dunia open source? Yuk dengar langsung dari Adysurya Agus - Software Engineer, Frontend - Warung Pintar yang sudah pernah berkontribusi untuk reason-react",
       "others": {
-        "Registration_url": "",
+        "Registration_url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fus02web.zoom.us%2Fmeeting%2Fregister%2FtZYpdu-hpjgiE9UgNR1UVu67rY3emSf_REqJ%3Ffbclid%3DIwAR19TyHyTz5V3GeRWmM_5TwKdlYY-Rk9Q12Xv7K14ibAHlxWmy7WB6_0LV4&h=AT0JD1NbIz5xPGo_iY2LWf3uMT29qxwhDAl2St7gU5H1Jba9omaDL6uOdC0qwT1b2ZRkZfqYNrD5s-cjitZ4mUjlttA03MyXi91L2tZQj0VaUYDpNsodAnXQ4_EO9G3eKdMmQuc",
         "Presentation_url": ""
       }
     },    
@@ -35,6 +35,7 @@
       "description": "Hallo! Facebook DevC jakarta kali ini bekerjasama dengan Shopee mengajak kamu untuk menyaksikan gimana sih bikin Game pakai Phaser 3 sama Typescript. Menarik banget bukan? Webinar ini akan dibawakan langsung oleh Kevin Sutrisno. Lead Gaame Engineer, Shopee.",
       "others": {
         "Registration_url": "https://bit.ly/shopeewebinar6",
+        "Video_url": "https://web.facebook.com/groups/DevCJakarta/permalink/961858460905585/",
         "Presentation_url": ""
       }
     },    
