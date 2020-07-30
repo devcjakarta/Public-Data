@@ -37,6 +37,8 @@ see [events.json](data/events.json)
 - Pukul: 19:00 - 21:00
 - Pembicara: 
   - Adysurya Agus, Software Engineering, Warung Pintar
+- https://web.facebook.com/events/299663777941208/
+- [Registration](https://l.facebook.com/l.php?u=https%3A%2F%2Fus02web.zoom.us%2Fmeeting%2Fregister%2FtZYpdu-hpjgiE9UgNR1UVu67rY3emSf_REqJ%3Ffbclid%3DIwAR19TyHyTz5V3GeRWmM_5TwKdlYY-Rk9Q12Xv7K14ibAHlxWmy7WB6_0LV4&h=AT0JD1NbIz5xPGo_iY2LWf3uMT29qxwhDAl2St7gU5H1Jba9omaDL6uOdC0qwT1b2ZRkZfqYNrD5s-cjitZ4mUjlttA03MyXi91L2tZQj0VaUYDpNsodAnXQ4_EO9G3eKdMmQuc)
 
 ### Online series #12: Make a Game with Phaser 3 and Typescript
 
@@ -46,6 +48,7 @@ see [events.json](data/events.json)
   - Kevin Sutrisno, Lead Game Engineer, Shopee
 - https://web.facebook.com/events/3043052425815265/
 - [Registration](https://bit.ly/shopeewebinar6)
+- [Video](https://web.facebook.com/groups/DevCJakarta/permalink/961858460905585/)
 
 ### Online series #11: Remote working? Is it as good as it sounds?
 
