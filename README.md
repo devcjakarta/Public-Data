@@ -50,6 +50,7 @@ see [events.json](data/events.json)
 - https://web.facebook.com/events/3043052425815265/
 - [Registration](https://bit.ly/shopeewebinar6)
 - [Video](https://web.facebook.com/groups/DevCJakarta/permalink/961858460905585/)
+- [QnA](https://web.facebook.com/groups/DevCJakarta/?post_id=961870960904335)
 
 ### Online series #11: Remote working? Is it as good as it sounds?
 
