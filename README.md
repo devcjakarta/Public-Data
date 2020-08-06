@@ -6,12 +6,13 @@ Developer Circle Jakarta - Public Data
 
 ## Last Event
 
-![Last Event](files/image/20200802-19.jpg)
+![Last Event](files/image/20200808-11.jpg)
 
 ## Daftar Event 2020
 
 see [events.json](data/events.json)
 
+- [DevC ID Event #1](#devc-id-event-1)
 - [Online series #13: Contributing to open source project - How to get started](#online-series-13-contributing-to-open-source-project-how-to-get-started)
 - [Online series #12: Make a Game with Phaser 3 and Typescript](#online-series-12-make-a-game-with-phaser-3-and-typescript)
 - [Online series #11: Remote working? Is it as good as it sounds?](#online-series-11-remote-working-is-it-as-good-as-it-sounds)
@@ -30,6 +31,16 @@ see [events.json](data/events.json)
 - [Onsite Mentoring Study Group #studyjam](#onsite-mentoring-study-group-studyjam)
 - [Mentoring Session Batch 3](#mentoring-session-batch-3)
 - [Build your own personal website using Gatsby](#build-your-own-personal-website-using-gatsby)
+
+### DevC ID Event #1
+
+- Tanggal: 2020/08/08
+- Pukul: 11:00 - 12:00
+- Pembicara: 
+  - Ariya Hidayat, Initiator of PhantomJS & Co-founder Hyperjump
+  - Trimikha Valentinus, Developer Program Manager APAC, Facebook
+- https://web.facebook.com/events/309938770207352
+- [Registration](https://bit.ly/devcid1)
 
 ### Online series #13: Contributing to open source project - How to get started
 
