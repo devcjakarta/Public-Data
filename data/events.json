@@ -1,6 +1,29 @@
 {
   "data": [
     {
+      "name": "DevC ID Event #1",
+      "date": "2020/08/08",
+      "time": "11:00 - 12:00",
+      "type": "online",
+      "speaker": [
+        {
+          "name": "Ariya Hidayat",
+          "title": "Initiator of PhantomJS & Co-founder Hyperjump"
+        },
+        {
+          "name": "Trimikha Valentinus",
+          "title": "Developer Program Manager APAC, Facebook"
+        }
+      ],
+      "banner": "20200808-11.jpg",
+      "url": "https://web.facebook.com/events/309938770207352",
+      "description": "",
+      "others": {
+        "Registration_url": "https://bit.ly/devcid1",
+        "Presentation_url": ""
+      }
+    },    
+    {
       "name": "Online series #13: Contributing to open source project - How to get started",
       "date": "2020/08/02",
       "time": "19:00 - 21:00",
