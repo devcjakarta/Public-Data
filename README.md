@@ -40,6 +40,7 @@ see [events.json](data/events.json)
   - Ariya Hidayat, Initiator of PhantomJS & Co-founder Hyperjump
   - Trimikha Valentinus, Developer Program Manager APAC, Facebook
 - https://web.facebook.com/events/309938770207352
+- [Video](https://www.facebook.com/this.rivki/videos/3827240793959483/?notif_id=1596859070573964&notif_t=live_video_explicit)
 - [Registration](https://bit.ly/devcid1)
 
 ### Online series #13: Contributing to open source project - How to get started
