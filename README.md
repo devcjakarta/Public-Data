@@ -6,12 +6,13 @@ Developer Circle Jakarta - Public Data
 
 ## Last Event
 
-![Last Event](files/image/20200808-11.jpg)
+![Last Event](files/image/20201003-19.jpg)
 
 ## Daftar Event 2020
 
 see [events.json](data/events.json)
 
+- [Online Series #14: React Runtime Performance Optimization](#online-series-14-react-runtime-performance-optimization)
 - [DevC ID Event #1](#devc-id-event-1)
 - [Online series #13: Contributing to open source project - How to get started](#online-series-13-contributing-to-open-source-project-how-to-get-started)
 - [Online series #12: Make a Game with Phaser 3 and Typescript](#online-series-12-make-a-game-with-phaser-3-and-typescript)
@@ -31,6 +32,15 @@ see [events.json](data/events.json)
 - [Onsite Mentoring Study Group #studyjam](#onsite-mentoring-study-group-studyjam)
 - [Mentoring Session Batch 3](#mentoring-session-batch-3)
 - [Build your own personal website using Gatsby](#build-your-own-personal-website-using-gatsby)
+
+### Online Series #14: React Runtime Performance Optimization
+
+- Tanggal: 2020/10/03
+- Pukul: 19:00 - 20:00
+- Pembicara: 
+  - Adjie Guntoro, Sofware Engineer Web Platform, Tokopedia
+- https://web.facebook.com/events/330588934940158
+- [Registration](https://us02web.zoom.us/meeting/register/tZ0ofu-ppj8pEtaoqMxJuSeT5gy-e_sPjIHP?fbclid=IwAR2ma1b9ybzV06uKPylHZoZ5NruJ_YouVgcIS6pKELkgWfa-q87FHzZO2NA)
 
 ### DevC ID Event #1
 
