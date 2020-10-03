@@ -41,6 +41,7 @@ see [events.json](data/events.json)
   - Adjie Guntoro, Sofware Engineer Web Platform, Tokopedia
 - https://web.facebook.com/events/330588934940158
 - [Registration](https://us02web.zoom.us/meeting/register/tZ0ofu-ppj8pEtaoqMxJuSeT5gy-e_sPjIHP?fbclid=IwAR2ma1b9ybzV06uKPylHZoZ5NruJ_YouVgcIS6pKELkgWfa-q87FHzZO2NA)
+- [Video](https://web.facebook.com/groups/DevCJakarta/permalink/1013164782441619/)
 
 ### DevC ID Event #1
 
